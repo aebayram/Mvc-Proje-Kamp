@@ -10,3 +10,7 @@ C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLa
 C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.csproj.CopyComplete
 C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.dll
 C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Debug\System.Threading.Tasks.Extensions.xml

@@ -13,3 +13,15 @@ C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\Data
 C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
 C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.dll
 C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit.resources
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writer_edit1.resources
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_writertitle_add.resources
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migimagesizechange.resources
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migwriter_addstatus.resources
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contentstatusadd.resources
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatusadd.resources
