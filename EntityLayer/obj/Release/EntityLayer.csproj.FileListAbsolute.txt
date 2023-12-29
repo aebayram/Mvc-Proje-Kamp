@@ -1,0 +1,16 @@
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Release\EntityLayer.dll.config
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Release\EntityFramework.dll
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Release\EntityFramework.xml
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.csproj.CopyComplete
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\EntityLayer\obj\Release\EntityLayer.pdb

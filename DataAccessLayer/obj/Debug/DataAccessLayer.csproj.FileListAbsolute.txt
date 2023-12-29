@@ -25,3 +25,7 @@ C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\Data
 C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.migwriter_addstatus.resources
 C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contentstatusadd.resources
 C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_headingstatusadd.resources
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_add_messageclass.resources
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_contactadd_date.resources
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_addimage_file.resources
+C:\Users\A.EBRU BAYRAM\source\repos\MvcProjeKampi\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig_admin_add.resources

@@ -1,0 +1,30 @@
+﻿<button class="btn btn-primary" data-toggle="modal" data-target="#Modal1">
+    Yeni Hakkımızda Yazı Girişi
+</button>
+
+<div class="modal" id="Modal1">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title">Hakkımızda Metin Girişi</h2>
+            </div>
+            <form method="post" action="/About/AddAbout/">
+                <div class="modal-body">
+                    <label for="metin1">Hakkında Metin 1</label>
+                    <input type="text" name="AboutDetails1" id="metin1" class="form-control" />
+                    <br />
+                    <label for="metin2">Hakkında Metin 2</label>
+                    <input type="text" name="AboutDetails2" id="metin2" class="form-control" />
+                    <br />
+                    <label for="metin2">Hakkında Görsel 1</label>
+                    <input type="text" name="AboutImage1" id="metin2" class="form-control" />
+                    <br />
+                    <label for="metin2">Hakkında Görsel 2</label>
+                    <input type="text" name="AboutImage2" id="metin2" class="form-control" />
+                    <br />
+                    <button class="btn btn-info">Kaydet</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
